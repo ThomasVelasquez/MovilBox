@@ -1,0 +1,34 @@
+.navigation__sidebar {
+    background-color: white;
+    height: 100vh;
+    width: 85%;
+}
+
+.navigation__logo {
+    height: 10px;
+    width: auto;
+}
+
+.navigation__icons {
+    height: 20px;
+    margin-top: 30px;
+}
+
+.navigation__icon-share {
+    height: 20px;
+}
+
+.navigation__icon-shadow {
+    background-color: darken($color: white, $amount: 5);
+    border-radius: 5px;
+    height: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 40px;
+}
+
+@media (max-width:768px) {
+    .navigation__sidebar{
+        width: 10%;
+    }
+}

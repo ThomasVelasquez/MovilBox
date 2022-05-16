@@ -1,0 +1,14 @@
+export {default as movilbox} from './MovilBox.png';
+export {default as share} from './share.png';
+export {default as home} from './home.png';
+export {default as megaphone} from './megaphone.png';
+export {default as call} from './call.png';
+export {default as cart} from './shopping-cart.png';
+export {default as document} from './document.png';
+export {default as user} from './user.png';
+export {default as padlock} from './padlock.png';
+export {default as users} from './users.png';
+export {default as question} from './question.png';
+export {default as logout} from './logout.png';
+export {default as prueba} from './mGuKxbi.jpeg';
+export {default as telegram} from './telegrama.png'

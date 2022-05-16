@@ -1,0 +1,19 @@
+.market__title{
+    position: absolute;
+    top: 130px;
+    left: 150px;
+}
+
+.market__posicion-content {
+    position: absolute;
+    left: 115px;
+    top: 240px;
+}
+
+@media (max-width:768px) {
+    .market__title{
+        top: 155px;
+        left: 110px;
+        font-size: 1rem;
+    }
+}

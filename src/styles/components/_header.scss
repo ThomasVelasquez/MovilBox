@@ -1,0 +1,24 @@
+.header__container {
+    background-color:darken($color: greenyellow, $amount: 18) ;
+    border-radius: 5px;
+    color: white;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    position: absolute;
+    left: 140px;
+    top: 15px;
+    width: 90%;
+}
+    
+.header__icon{
+    height: 25px;
+    margin-top: 10px;
+    width: 25px;
+}
+
+@media (max-width:768px) {
+    .header__container{
+        left: 105px;
+        width: 30%;
+    }
+}

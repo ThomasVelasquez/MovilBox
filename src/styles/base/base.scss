@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
+
+html, body {
+    height:100vh;
+    background-color: darken($color: white, $amount: 10);
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+main{
+    width:100%;
+}
+
+.mtp-1 {
+    margin-top:5px;
+}
+
+.mtp-5 {
+    margin-top: 20px;
+}
+
+.mbp-1 {
+    margin-bottom: 5px;
+}
+
+.mbp-5 {
+    margin-bottom: 20px;
+}
+
+.pointer {
+    cursor: pointer;
+}
